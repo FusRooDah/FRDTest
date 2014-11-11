@@ -11,7 +11,7 @@ include(__DIR__.'/config.php');
 // Do it and store it all in variables in the FRD container.
 $FRD['title'] = "404";
 $FRD['header'] = "";
-$FRD['main'] = "This is a Anax 404. Document is not here.";
+$FRD['main'] = "This is a Frd 404. Document is not here.";
 $FRD['footer'] = "";
 
 // Send the 404 header 
