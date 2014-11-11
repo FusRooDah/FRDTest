@@ -5,7 +5,7 @@ FRD-oophp builds upon FRD-base.
 
 FRD-oophp is used as course material in the university course http://dbwebb.se/oophp.
 
-Built by Mikael Roos, me@mikaelroos.se.
+Built by Kevin Paulsson, kevinpaulsson95@gmail.com
 
 
 
