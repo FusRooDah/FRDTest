@@ -1,1 +1,1 @@
-FRD is a PHP-boilerplate/framework for small websites. FRD was built by Mikael Roos (me@mikaelroos.se) as part of teaching web programming and published in june 2013 as an article at http://dbwebb.se/kunskap (swedish). It was also published at GitHub: https://github.com/mosbth/FRD-base.
+FRD is a PHP-boilerplate/framework for small websites. FRD was built by Kevin Paulsson (kevinpaulsson95@gmai.) as part of teaching web programming.
