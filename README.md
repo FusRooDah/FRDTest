@@ -30,32 +30,7 @@ The following external modules are included and subject to its own license.
 * Path: included in `webroot/js/modernizr.js`
 
 
-
-History
------------------------------------
-
-
-v1.0.x (latest)
-
-* Cloned FRD-bas to be the base for FRD-oophp.
-* Changed how jQuery is included, now using `jquery` and `jquery_src`.
-* Added dynamic menu / navbar in `webroot/config.php`, `theme/index.tpl.php` and `theme/functions.php`.
-* Changed order of including bootstrap.php and starting session in `config.php`. Compatible with FRD-base v1.0.2.
-* Changed default directory for displaying source code to '..' in `webroot/source.php`.
-* Naming of session in `webroot/config.php` allows only alphanumeric characters.
-
-
-v1.0.0 (2013-06-28)
-
-* First release after initial article on FRD.
-
-
-
-------------------
- .  
-..:
-
-Copyright (c) 2013 Mikael Roos
+Copyright (c) 2014 Kevin Paulsson
 
 
 
